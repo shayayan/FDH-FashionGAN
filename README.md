@@ -5,4 +5,6 @@ This folder contains the .py files of the scraper (scraper.py), another file tha
 
 ## Outside code
 DragGAN : https://github.com/XingangPan/DragGAN
+
+
 StyleGAN2-ADA : https://github.com/NVlabs/stylegan2-ada-pytorch
